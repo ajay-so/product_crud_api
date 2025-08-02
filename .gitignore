@@ -1,0 +1,5 @@
+.env
+init
+node_modules
+logger
+middleware_logs

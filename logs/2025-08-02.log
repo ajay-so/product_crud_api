@@ -1,0 +1,24 @@
+------------------------------------------------
+Timestamp: 8/2/2025, 6:36:39 PM
+Action: Login Success
+API: /auth/login
+Method: POST
+IP: ::1
+User: ajaykumar@gmail.com
+Duration: 264ms
+Input: {"username":"ajay...."}
+Output: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODhjZDg0MTA5MDJlMmU3NGQ3Mzk1ZTIiLCJpYXQiOjE3NTQxMzk5OTksImV4cCI6MTc1NDE0MzU5OX0.NCg8L8TJpbxJ6ZXGx6Px32N0pyR44xMjmHAmpFHbzKM"}
+Error: undefined
+------------------------------------------------
+------------------------------------------------
+Timestamp: 8/2/2025, 6:37:12 PM
+Action: Login Failed - Wrong Password
+API: /auth/login
+Method: POST
+IP: ::1
+User: ajay....
+Duration: 279ms
+Input: {"username":"ajay...."}
+Output: {}
+Error: Invalid credentials
+------------------------------------------------
